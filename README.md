@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400"  src="https://www.inventateq.com/assets/python/small.gif">
+<img align="right" width="500" height="400"  src="https://www.inventateq.com/assets/python/small.gif">
 
 
 # Hi, I'm Pradeep :chicken:
