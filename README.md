@@ -7,7 +7,7 @@ Full-Stack | Software engineer :robot:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Drawing | :black_heart:TT | :blue_heart: Programming
 
 - :earth_americas: I'm from india - indore
 - :video_game: I like to play video games
